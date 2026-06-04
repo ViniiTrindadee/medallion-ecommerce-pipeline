@@ -1,0 +1,8 @@
+*.pyc
+__pycache__/
+.databricks/
+*.env
+data/
+*.csv
+*.zip
+.DS_Store
