@@ -25,7 +25,7 @@ Demonstrar na prática a implementação de uma arquitetura Medallion moderna co
 
 ```mermaid
 flowchart LR
-    A[📁 Olist CSVs\n9 arquivos] --> B[🥉 RAW\n9 tabelas Delta\nSchema original]
+    A[ Olist CSVs\n9 arquivos] --> B[ RAW\n9 tabelas Delta\nSchema original]
     B --> C[SILVER\n5 tabelas Delta\nLimpeza e conformidade]
     C --> D[GOLD\n3 tabelas Delta\nAgregações de negócio]
     D --> E[Analytics\nBI / Dashboards]
