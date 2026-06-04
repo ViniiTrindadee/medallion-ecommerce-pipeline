@@ -137,5 +137,5 @@ medallion-ecommerce-pipeline/
 **Vinicius Trindade da Silva**
 Analytics Engineer | Data Engineering
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinicius_Trindade-0077B5?logo=linkedin)](https://linkedin.com/in/viniitrindadee)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinicius_Trindade-0077B5?logo=linkedin)](https://www.linkedin.com/in/vinicius-trindade-da-silva/)
 [![GitHub](https://img.shields.io/badge/GitHub-ViniiTrindadee-181717?logo=github)](https://github.com/ViniiTrindadee)
